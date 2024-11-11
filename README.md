@@ -1,7 +1,7 @@
 # PyTorch Implementation of DQN with MDP 2 VEC
 	
 	to run the code with out experiment of Cartpole, you must modify your cartpole gym environment following 
-	https://github.com/piggene/gym/tree/main
+	https://github.com/alfred-cueva/gym/tree/main
 	
 ### Hyperparameters Used
     
